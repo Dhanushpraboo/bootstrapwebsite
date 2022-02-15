@@ -281,10 +281,10 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
-![Home Page](home1.png)
-![Home page](home2.png)
+![HomePage](home1.png)
+![Homepage](home2.png)
 ### About us:
-![About us](aboutus.png)
+![Aboutus](aboutus.png)
 ### Gallery:
 ![Gallery](gallery.png)
 
