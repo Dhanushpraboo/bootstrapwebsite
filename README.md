@@ -282,7 +282,7 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![hopmepage](home.png)
+![hopmepage](Home.png)
 ![home](home1.png)
 
 ### About us:
