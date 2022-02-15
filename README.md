@@ -282,16 +282,16 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![Homepage](home.png)
-![homePage](home1.png)
+![](home.png)
+![](home1.png)
 
 ### About us:
 
-![Aboutus](Aus.png)
+![](Aus.png)
 
 ### Gallery:
 
-![Gallery](Gallery.png)
+![](Gallery.png)
 
 
 ## Result:
