@@ -287,7 +287,7 @@ Publish the website in the given URL.
 
 ### About us:
 
-![About us](Aus.png)
+![Aboutus](Aus.png)
 
 ### Gallery:
 
