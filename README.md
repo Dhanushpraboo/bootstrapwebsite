@@ -282,8 +282,8 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![HomePage](home1.png)
-![Homepage](home2.png)
+![homepage](home1.png)
+![homepage](home2.png)
 
 ### About us:
 
